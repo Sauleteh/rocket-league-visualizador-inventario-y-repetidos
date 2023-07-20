@@ -6,7 +6,9 @@
 Para visualizar el inventario de forma normal tienes el cuadro de búsqueda inferior, escribe el nombre del objeto y se te mostrarán los objetos que coincidan con tu búsqueda, funciona igual que dentro del juego.
 
 ## Requisitos especiales
-Este programa solo funciona para las plataformas de PC (Epic y Steam), siendo necesario usar BakkesMod (https://bakkesmod.com/download.php) y el plugin Better Inventory Export (https://bakkesplugins.com/plugins/view/155 [Créditos a Bakkes por la creación de este plugin]). Las instrucciones de uso son las siguientes:
+Este programa solo funciona para las plataformas de PC (Epic y Steam), siendo necesario usar BakkesMod (https://bakkesmod.com/download.php) y el plugin Better Inventory Export (https://bakkesplugins.com/plugins/view/155 [Créditos a Bakkes por la creación de este plugin]).
+
+Las instrucciones de uso son las siguientes:
 1. Instala BakkesMod
 2. Instala el plugin
 3. Abre BakkesMod
